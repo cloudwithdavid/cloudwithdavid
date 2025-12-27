@@ -4,7 +4,7 @@ In the space of tech, I am an aspiring Cloud Architect — driven by **systems t
 
 I document my learning journey as *Cloud With David*, focusing on foundational insights as I build my expertise — with the goal of evolving into more advanced cloud topics over time. 
 
-Lets connect — [🔗LinkedIn](https://www.linkedin.com/in/cloudwithdavid)
+Lets connect — 🔗[LinkedIn](https://www.linkedin.com/in/cloudwithdavid)
 
 
 
