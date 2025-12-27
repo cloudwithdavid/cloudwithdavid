@@ -4,7 +4,10 @@ In the space of tech, I am an aspiring Cloud Architect — driven by **systems t
 
 I document my learning journey as *Cloud With David*, focusing on foundational insights as I build my expertise — with the goal of evolving into more advanced cloud topics over time. 
 
-Let’s talk _**Cloud ☁️**_
+Lets connect — [🔗LinkedIn](https://www.linkedin.com/in/cloudwithdavid)
+
+
+
 <!--
 **cloudwithdavid/cloudwithdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
