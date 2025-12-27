@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+In the space of tech, I am an aspiring Cloud Architect driven by **systems thinking**, clarity, and continuous improvement.
+I document my learning journey as *Cloud With David*, focusing on foundational insights as I build my expertise — with the goal of evolving into more advanced cloud topics over time. 
+
+**Let’s talk Cloud ☁️**_
 <!--
 **cloudwithdavid/cloudwithdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
