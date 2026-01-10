@@ -1,5 +1,5 @@
 I am an aspiring Cloud Engineer  
-— driven by **systems thinking**, clarity, and continuous improvement
+— driven by learning, and **continuous improvement**
 
 I document my learning journey as *Cloud With David*
 
