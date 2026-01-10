@@ -1,4 +1,4 @@
-I am an aspiring Cloud Engineer  
+I'm an aspiring Cloud Engineer  
 — driven by learning, and **continuous improvement**
 
 I document my learning journey as *Cloud With David*
