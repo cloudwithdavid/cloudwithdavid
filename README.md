@@ -1,7 +1,7 @@
 I'm an aspiring Cloud Engineer  
 — driven by learning, and **continuous improvement**
 
-I document my learning journey as *Cloud With David*
+I document my journey as *Cloud With David*
 
 Lets connect - 🔗[LinkedIn](https://www.linkedin.com/in/cloudwithdavid)
 
