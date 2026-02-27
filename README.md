@@ -5,7 +5,7 @@ I document my journey as *Cloud With David*
 
 Lets connect - 🔗[LinkedIn](https://www.linkedin.com/in/cloudwithdavid)
 
-🌐 (https://cloudwithdavid.com)
+🌐 https://cloudwithdavid.com
 
 
 <!--
