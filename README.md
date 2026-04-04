@@ -1,21 +1,40 @@
-Aspiring Cloud Engineer
+<!-- markdownlint-disable MD041 -->
+## ☁️ Aspiring Cloud Engineer | 🧠 AI-Focused
 
-Lets connect - 🔗[LinkedIn](https://www.linkedin.com/in/cloudwithdavid)
+Building toward Cloud AI Engineering and AI-driven systems.
 
-🌐 https://cloudwithdavid.com
+## ⚙️ What I'm Working On
 
+- IT Support Lab (Jira-based)
+  - Simulating real-world support workflows
+  - Focus: troubleshooting logic, escalation decisions, documentation clarity
 
-<!--
-**cloudwithdavid/cloudwithdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Preparing for AWS Certified Solutions Architect – Associate
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux CLI & **Bash scripting**
+- Python scripting
+- AWS fundamentals
+
+## 📈 Next Steps
+
+- Build cloud-based projects
+- Develop real-world automation tooling
+- Integrate AI into workflows and systems
+
+## 🤝 Let's Connect
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+<a href="https://cloudwithdavid.com">
+  <img src="https://img.shields.io/badge/Website-CloudWithDavid-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/cloudwithdavid">
+  <img src="https://img.shields.io/badge/LinkedIn-David%20Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:contact@cloudwithdavid.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</div>
