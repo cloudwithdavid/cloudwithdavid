@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 ## ☁️ Aspiring Cloud Engineer | 🧠 AI-Focused
 
-Building toward Cloud AI Engineering and AI-driven systems.
+Building toward cloud, automation, and AI-driven systems.
 
 ## ⚙️ What I'm Working On
 
