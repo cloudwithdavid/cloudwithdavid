@@ -5,9 +5,9 @@ Building toward cloud, operations, and applied AI.
 
 ## ⚙️ What I'm Working On
 
-- IT Support Lab (Jira-based)
-  - Simulating real-world support workflows
-  - Focus: troubleshooting logic, escalation decisions, documentation clarity
+- Support Engineering Lab
+  - Focus: troubleshooting workflow, support judgment, documentation clarity, automation
+  - Building Bash/Python utilities for evidence collection, diagnostics, and workflow support
 
 - Preparing for AWS Certified Solutions Architect – Associate
 
