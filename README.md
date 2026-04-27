@@ -6,7 +6,7 @@ Building toward cloud, operations, and applied AI.
 ## ⚙️ What I'm Working On
 
 - [Support Engineering Lab](https://github.com/cloudwithdavid/support-eng-lab)
-  - Focus: troubleshooting workflow, support judgment, documentation clarity, automation
+  - Focus: support judgment, troubleshooting workflow, documentation clarity, automation
   - Building Bash/Python utilities for evidence collection, diagnostics, and workflow support
 
 - Preparing for AWS Certified Solutions Architect – Associate
