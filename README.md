@@ -6,14 +6,14 @@ Building toward cloud, operations, and applied AI.
 ## ⚙️ What I'm Working On
 
 - [Systems Operations Lab](https://github.com/cloudwithdavid/sys-ops-lab)
-  - Focus: systems troubleshooting, incident-style investigation, CLI evidence gathering, and automation
+  - Focus: Systems troubleshooting, CLI evidence gathering, and automation through incident-style investigation.
   - Building Bash/Python utilities for diagnostics, log analysis, API health checks, and repeatable operational workflows
 
 - Preparing for AWS Certified Solutions Architect – Associate
 
 ## 🔭 Current Focus
 
-- Linux CLI & **Bash scripting**
+- Linux CLI
 - Python scripting
 - AWS fundamentals
 
