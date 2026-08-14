@@ -3,25 +3,16 @@
 
 Building toward cloud, operations, and applied AI.
 
-## ⚙️ What I'm Working On
-
-- [Systems Operations Lab](https://github.com/cloudwithdavid/sys-ops-lab)
-  - Focus: Systems troubleshooting, CLI evidence gathering, and automation through incident-style investigation.
-  - Building Bash/Python utilities for diagnostics, log analysis, API health checks, and repeatable operational workflows
-
-- Preparing for AWS Certified Solutions Architect – Associate
-
 ## 🔭 Current Focus
 
-- Linux CLI
-- Python scripting
-- AWS fundamentals
+**[AWS re/Start](https://aws.amazon.com/training/restart/) — [Per Scholas](https://perscholas.org/locations/new-york/)**  
+  - Full-time, scenario-based cloud training focused on AWS, Linux, networking, Python, security, automation, databases, and cloud operations.
 
-## 📈 Next Steps
+## 🧪 Featured Project
 
-- Build cloud-based projects
-- Develop real-world automation tooling
-- Integrate AI into workflows and systems
+[**Systems Operations Lab**](https://github.com/cloudwithdavid/sysops-lab)
+  - Incident-style troubleshooting cases across multiple domains, including Linux, networking, applications/APIs, and identity.
+  - Built Bash/Python utilities for evidence collection, disk triage, and log analysis/summary to make troubleshooting workflows more repeatable.
 
 ## 🤝 Let's Connect
 <!-- markdownlint-disable MD033 -->
