@@ -5,8 +5,10 @@ Building toward cloud, operations, and applied AI.
 
 ## 🔭 Current Focus
 
-**[AWS re/Start](https://aws.amazon.com/training/restart/) — [Per Scholas](https://perscholas.org/locations/new-york/)**  
+**[AWS re/Start](https://aws.amazon.com/training/restart/) @ [Per Scholas](https://perscholas.org/locations/new-york/)**  
   - Full-time, scenario-based cloud training focused on AWS, Linux, networking, Python, security, automation, databases, and cloud operations.
+
+**Next Project — [Learn to Cloud](https://github.com/learntocloud/learn-to-cloud-app)** 
 
 ## 🧪 Featured Project
 
