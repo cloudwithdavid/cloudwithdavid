@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 ## ☁️ Aspiring Cloud Engineer | 🧠 AI-Focused
 
-Building toward cloud, operations, and applied AI.
+Building toward cloud, DevOps, and applied AI.
 
 ## 🔭 Current Focus
 
