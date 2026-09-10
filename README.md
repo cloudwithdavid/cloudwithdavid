@@ -10,7 +10,11 @@ Building toward cloud, DevOps, and AI systems.
 
 **Next Project — [Learn to Cloud](https://github.com/learntocloud/learn-to-cloud-app)** 
 
-## 🧪 Featured Project
+## 🧪 Featured Projects
+
+[**AWS re/Start Labs**](https://github.com/cloudwithdavid/aws-restart)
+- Selected technical labs across cloud infrastructure, automation, systems operations, data, and GenAI.
+<!-- - Hands-on work includes multi-AZ load balancing and scaling, infrastructure as code, serverless workflows, fleet operations, RDS migration, and agentic AI. -->
 
 [**Systems Operations Lab**](https://github.com/cloudwithdavid/sysops-lab)
   - Incident-style troubleshooting cases across multiple domains, including Linux, networking, applications/APIs, and identity.
@@ -20,7 +24,7 @@ Building toward cloud, DevOps, and AI systems.
 <!-- markdownlint-disable MD033 -->
 <div align="center">
 <a href="https://cloudwithdavid.com">
-  <img src="https://img.shields.io/badge/Website-CloudWithDavid-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/WEBSITE-CLOUDWITHDAVID-0EA5A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=555555">
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/cloudwithdavid">
