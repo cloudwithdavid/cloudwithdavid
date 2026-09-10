@@ -20,7 +20,7 @@ Building toward cloud, DevOps, and AI systems.
   - Incident-style troubleshooting cases across multiple domains, including Linux, networking, applications/APIs, and identity.
   - Built Bash/Python utilities for evidence collection, disk triage, and log analysis/summary to make troubleshooting workflows more repeatable.
 
-## 🤝 Let's Connect
+## 🔗 Let's Connect
 <!-- markdownlint-disable MD033 -->
 <div align="center">
 <a href="https://cloudwithdavid.com">
