@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD041 -->
-## ☁️ Aspiring Cloud Engineer | 🧠 AI-Focused
+## ☁️ Aspiring Cloud Engineer | AI-Focused
 
 Building toward cloud, DevOps, and AI systems.
 
