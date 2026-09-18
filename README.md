@@ -10,7 +10,7 @@ Building toward cloud, DevOps, and AI systems.
 
 **Next Project — [Learn to Cloud](https://github.com/learntocloud/learn-to-cloud-app)** 
 
-## 🧪 Featured Projects
+## 🧪 Featured
 
 [**AWS re/Start Labs**](https://github.com/cloudwithdavid/aws-restart)
 - Selected technical labs across cloud infrastructure, automation, systems operations, data, and GenAI.
