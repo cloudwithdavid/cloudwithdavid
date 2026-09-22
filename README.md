@@ -12,7 +12,7 @@ Building toward cloud, DevOps, and AI systems.
 
 ## 🧪 Featured
 
-[**AWS re/Start Labs**](https://github.com/cloudwithdavid/aws-restart)
+[**AWS re/Start Portfolio**](https://github.com/cloudwithdavid/aws-restart)
 - Selected technical labs across cloud infrastructure, automation, systems operations, data, and GenAI.
 <!-- - Hands-on work includes multi-AZ load balancing and scaling, infrastructure as code, serverless workflows, fleet operations, RDS migration, and agentic AI. -->
 
