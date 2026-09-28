@@ -13,8 +13,7 @@ Building toward cloud, DevOps, and AI systems.
 ## 🧪 Featured
 
 [**AWS re/Start Portfolio**](https://github.com/cloudwithdavid/aws-restart)
-- Selected technical labs across cloud infrastructure, automation, systems operations, data, and GenAI.
-<!-- - Hands-on work includes multi-AZ load balancing and scaling, infrastructure as code, serverless workflows, fleet operations, RDS migration, and agentic AI. -->
+- Selected Cloud Engineering work across cloud infrastructure & operations, containers, serverless, databases, storage, and agentic AI.
 
 [**Systems Operations Lab**](https://github.com/cloudwithdavid/sysops-lab)
   - Incident-style troubleshooting cases across multiple domains, including Linux, networking, applications/APIs, and identity.
