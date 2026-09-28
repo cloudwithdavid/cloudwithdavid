@@ -13,7 +13,7 @@ Building toward cloud, DevOps, and AI systems.
 ## 🧪 Featured
 
 [**AWS re/Start Portfolio**](https://github.com/cloudwithdavid/aws-restart)
-- Selected Cloud Engineering work across cloud infrastructure & operations, containers, serverless, databases, storage, and agentic AI.
+- Selected Cloud Engineering work across cloud infrastructure & operations, containers, serverless, storage, databases, and applied AI.
 
 [**Systems Operations Lab**](https://github.com/cloudwithdavid/sysops-lab)
   - Incident-style troubleshooting cases across multiple domains, including Linux, networking, applications/APIs, and identity.
