@@ -1,13 +1,13 @@
 <!-- markdownlint-disable -->
 
-### Current Focus
+## **Current Focus**
 
 **[AWS re/Start](https://aws.amazon.com/training/restart/) @ [Per Scholas](https://perscholas.org/locations/new-york/)**  
   - Full-time, scenario-based cloud training focused on AWS, Linux, networking, Python, security, GenAI, automation, databases, and cloud operations.
 
 **Next Project — [Learn to Cloud](https://github.com/learntocloud/learn-to-cloud-app)** 
 
-### Featured
+## Featured
 
 [**AWS re/Start Portfolio**](https://github.com/cloudwithdavid/aws-restart)
 - Selected Cloud Engineering work across cloud infrastructure & operations, containers, serverless, storage, databases, and applied AI.
@@ -16,6 +16,7 @@
   - Incident-style troubleshooting cases across multiple domains, including Linux, networking, applications/APIs, and identity.
   - Built Bash/Python utilities for evidence collection, disk triage, and log analysis/summary to make troubleshooting workflows more repeatable.
 
+---
 <!-- markdownlint-disable MD033 -->
 <div align="center">
 <a href="https://cloudwithdavid.com">
