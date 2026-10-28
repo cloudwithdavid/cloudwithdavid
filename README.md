@@ -2,8 +2,7 @@
 
 ## Current
 
-**[AWS re/Start](https://aws.amazon.com/training/restart/) @ [Per Scholas](https://perscholas.org/locations/new-york/)**  
-  - Full-time, scenario-based cloud training focused on AWS, Linux, networking, Python, security, GenAI, automation, databases, and cloud operations.
+**[AWS re/Start](https://aws.amazon.com/training/restart/) @ [Per Scholas](https://perscholas.org/locations/new-york/)**
 
 ---
 
